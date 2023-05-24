@@ -1,9 +1,11 @@
 import React from 'react';
+import CssBaseline from '@mui/material/CssBaseline';
 
 function App() {
   return (
     <div>
-      App
+      <CssBaseline />
+      <h1>Hello World - Filmpire</h1>
     </div>
   );
 }
